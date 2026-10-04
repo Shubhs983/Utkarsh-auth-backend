@@ -1,12 +1,12 @@
 import { useState } from 'react';
 import './index.css';
-import TeacherLogin from './pages/TeacherLogin';
-import TeacherHome from './pages/TeacherHome';
-import TeacherClassroom from './pages/TeacherClassroom';
-import TeacherNGO from './pages/TeacherNGO';
-import AdminLogin from './pages/AdminLogin';
-import AdminDashboard from './pages/AdminDashboard';
-import AdminVerification from './pages/AdminVerification';
+import TeacherLogin from './pages/TeacherLogin/TeacherLogin';
+import TeacherHome from './pages/TeacherHome/TeacherHome';
+import TeacherClassroom from './pages/TeacherClassroom/TeacherClassroom';
+import TeacherNGO from './pages/TeacherNGO/TeacherNGO';
+import AdminLogin from './pages/AdminLogin/AdminLogin';
+import AdminDashboard from './pages/AdminDashboard/AdminDashboard';
+import AdminVerification from './pages/AdminVerification/AdminVerification';
 
 const pages = {
   TeacherLogin,

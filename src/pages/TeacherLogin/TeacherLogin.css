@@ -1,0 +1,8 @@
+.TeacherLogin a {
+  color:#0F5C63;
+  font-weight:600;
+}
+
+.TeacherLogin a:hover {
+  color:#0A3F45;
+}

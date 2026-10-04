@@ -1,0 +1,8 @@
+.AdminLogin a {
+  color:#0F5C63;
+  font-weight:600;
+}
+
+.AdminLogin a:hover {
+  color:#0A3F45;
+}

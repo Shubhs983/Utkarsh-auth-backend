@@ -1,0 +1,192 @@
+.AdminDashboard a {
+  color:#0F5C63;
+  font-weight:600;
+}
+
+.AdminDashboard .p {
+  width:390px;
+  height:844px;
+  box-sizing:border-box;
+  background:#F4F6F1;
+  display:flex;
+  flex-direction:column;
+  font-family:'Mukta',sans-serif;
+}
+
+.AdminDashboard .h {
+  background:#0F5C63;
+  color:#fff;
+  padding:40px 20px 20px;
+}
+
+.AdminDashboard .m {
+  flex:1;
+  padding:16px 20px;
+  display:flex;
+  flex-direction:column;
+  gap:12px;
+  overflow:hidden;
+}
+
+.AdminDashboard .c {
+  background:#fff;
+  border:1px solid #D3DEDB;
+  border-radius:12px;
+  padding:14px;
+  display:flex;
+  flex-direction:column;
+  gap:8px;
+}
+
+.AdminDashboard .r {
+  display:flex;
+  align-items:center;
+  justify-content:space-between;
+  gap:8px;
+}
+
+.AdminDashboard .b {
+  min-height:44px;
+  border:0;
+  border-radius:10px;
+  background:#E8A33D;
+  color:#0A3F45;
+  font:700 16px 'Mukta',sans-serif;
+  padding:0 14px;
+}
+
+.AdminDashboard .o {
+  min-height:44px;
+  border:2px solid #0F5C63;
+  border-radius:10px;
+  background:transparent;
+  color:#0F5C63;
+  font:600 15px 'Mukta',sans-serif;
+  padding:0 12px;
+}
+
+.AdminDashboard .n {
+  display:flex;
+  border-top:1px solid #D3DEDB;
+  background:#fff;
+}
+
+.AdminDashboard .n span {
+  flex:1;
+  text-align:center;
+  padding:14px 0;
+  font-size:14px;
+  font-weight:600;
+  color:#3F5A5D;
+}
+
+.AdminDashboard .n .on {
+  color:#0F5C63;
+  border-top:3px solid #E8A33D;
+}
+
+.AdminDashboard .bar {
+  height:10px;
+  border-radius:5px;
+  background:#E3EAE7;
+}
+
+.AdminDashboard .bar i {
+  display:block;
+  height:10px;
+  border-radius:5px;
+}
+
+.AdminDashboard .ok {
+  color:#14532D;
+  font-weight:700;
+}
+
+.AdminDashboard .lo {
+  color:#8A5A00;
+  font-weight:700;
+}
+
+.AdminDashboard .re {
+  color:#9B1C1C;
+  font-weight:700;
+}
+
+.AdminDashboard .s {
+  font-size:13px;
+  color:#3F5A5D;
+}
+
+.AdminDashboard .w {
+  width:1280px;
+  height:800px;
+  box-sizing:border-box;
+  display:flex;
+  font-family:'Mukta',sans-serif;
+  background:#F4F6F1;
+}
+
+.AdminDashboard .sb {
+  width:220px;
+  background:#0F5C63;
+  color:#fff;
+  padding:28px 20px;
+  display:flex;
+  flex-direction:column;
+  gap:6px;
+  font-size:17px;
+}
+
+.AdminDashboard .sb div {
+  padding:10px 12px;
+  border-radius:8px;
+}
+
+.AdminDashboard .sb .on {
+  background:#0A3F45;
+  font-weight:700;
+}
+
+.AdminDashboard .mn {
+  flex:1;
+  padding:28px 32px;
+  display:flex;
+  flex-direction:column;
+  gap:16px;
+}
+
+.AdminDashboard .g {
+  display:flex;
+  gap:16px;
+}
+
+.AdminDashboard .g>* {
+  flex:1;
+}
+
+.AdminDashboard .d {
+  display:inline-block;
+  width:12px;
+  height:12px;
+  border-radius:6px;
+  margin-right:6px;
+}
+
+.AdminDashboard table {
+  width:100%;
+  border-collapse:collapse;
+  font-size:16px;
+}
+
+.AdminDashboard th {
+  text-align:left;
+  font-size:14px;
+  color:#3F5A5D;
+  padding:8px 6px;
+  border-bottom:2px solid #D3DEDB;
+}
+
+.AdminDashboard td {
+  padding:10px 6px;
+  border-bottom:1px solid #E3EAE7;
+}
